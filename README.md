@@ -1,43 +1,35 @@
-# Hola, soy Victor Daniel Ojeda 👋
+# Victor Daniel Ojeda
 
-## Full Stack Developer
+**Computer Vision & AI Engineer** · Paraná, Argentina 🇦🇷
 
-Apasionado por la programación, el open source, la automatización y la visión por computadora.
+I build vision systems that make it to production — and stay there. 15+ years shipping software where failure is expensive: payments and fraud prevention, public healthcare systems, and government platforms — including 7 years running the GPU/HPC infrastructure that model training depends on.
 
----
+**Currently:** face verification & passive liveness detection for KYC · edge inference optimization on CPU
 
-### 🛠️ Tech Stack
+### 🔭 Featured Projects
 
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+| Project | What it does | Stack |
+|---|---|---|
+| [**kyc-face-verify**](https://github.com/ojedavd/kyc-face-verify) | Identity verification API — 1:1 face matching + passive liveness + document eKYC. **0.00% false-accept at the operating threshold** on the LFW benchmark; **~121 ms** per verification on CPU (no GPU). | PyTorch · ONNX Runtime · FastAPI · Docker |
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*More vision projects are moving from private to public — this table grows as they land.*
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### 🛠 Stack
 
-**Computer Vision & ML**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**Vision & ML** — PyTorch · OpenCV · ONNX Runtime · NumPy · object detection · face recognition · liveness detection · OCR · model quantization
 
----
+**Backend** — Python · FastAPI · Node.js · TypeScript · PostgreSQL
 
-### 🚀 Proyectos Destacados
+**Infra** — Docker · AWS · GCP · Azure · Linux · CI/CD · HPC/GPU cluster administration
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [vgrok](https://github.com/ojedavd/vgrok) | Proyecto de automatización y utilidades |
+### ✍️ Writing
 
----
+Author of three articles on applied AI for USERS magazine (RedUsers):
 
-### 📫 Conecta conmigo
+- [Image Classification: Teach AI to Recognize Objects](https://premium.redusers.com/library/publication/iu525)
+- [Build Your Own AI Agent](https://premium.redusers.com/library/publication/iu558)
+- [AI Chatbot on WhatsApp](https://premium.redusers.com/library/publication/iu546)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ojedavd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojedavd/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://victorojedaok.blogspot.com)
+### 📫 Reach me
 
----
+[linkedin.com/in/ojedavd](https://linkedin.com/in/ojedavd) · ojedavd@gmail.com
