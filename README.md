@@ -12,7 +12,3 @@ I build vision systems that make it to production — and stay there. 15+ years 
 **Backend** — Python · FastAPI · Node.js · TypeScript · PostgreSQL
 
 **Infra** — Docker · AWS · GCP · Azure · Linux · CI/CD · HPC/GPU cluster administration
-
-### 📫 Reach me
-
-[linkedin.com/in/ojedavd](https://linkedin.com/in/ojedavd) · ojedavd@gmail.com
